@@ -1,0 +1,1001 @@
+﻿Rank,Name,Final score,Country,Industry
+1,Skanska,100,Sweden,Construction
+2,Microsoft,99.85,Ireland,"IT, Internet, Software and Services"
+3,Airbus,97.78,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+4,Naval Group,97.12,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+5,Google,96.07,Ireland,"IT, Internet, Software and Services"
+6,Bionorica,94.75,Germany,Drugs and Biotechnology
+7,Cisco,93.81,Netherlands,"IT, Internet, Software and Services"
+8,Frosta,93.69,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+9,OneAdvanced,93.61,United Kingdom,"IT, Internet, Software and Services"
+10,ArianeGroup,93.3,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+11,Samsung,93.04,United Kingdom,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+12,Wacker Chemie,92.75,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+13,Webasto,92.72,Germany,Automotive (Producers and Suppliers)
+14,Zurich,92.4,Switzerland,Insurance
+15,John Deere,92.29,Germany,Automotive (Producers and Suppliers)
+16,Automobili Lamborghini,92.27,Italy,Automotive (Producers and Suppliers)
+17,Andritz,92.25,Austria,"Engineering, Manufacturing"
+18,Sennheiser,92.17,Germany,Packaged Goods
+19,Safran Group,92.05,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+20,BBVA,91.68,Spain,Banking and Financial Services
+21,TotalEnergies,91.59,France,"Oil and Gas Operations, Mining, and Chemicals"
+22,Spie batignolles,91.37,France,Construction
+23,Lilly,91.32,Ireland,Drugs and Biotechnology
+24,Zeiss,91.3,Germany,Healthcare Equipment and Services
+25,Legendre,91.14,France,Construction
+26,Rolex,91.14,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+27,L’Oréal,91.13,France,Packaged Goods
+28,Thales Group,91.05,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+29,Informatica,91.01,Ireland,"IT, Internet, Software and Services"
+30,BMW,90.96,Germany,Automotive (Producers and Suppliers)
+31,SAP,90.9,Germany,"IT, Internet, Software and Services"
+32,Bühler,90.77,Switzerland,"Engineering, Manufacturing"
+33,SNF,90.74,France,Drugs and Biotechnology
+34,Designer Group,90.74,Ireland,Construction
+35,Legrand,90.67,France,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+36,Husqvarna,90.63,Sweden,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+37,Indeed,90.4,Ireland,"IT, Internet, Software and Services"
+38,Zucchetti,90.25,Italy,"IT, Internet, Software and Services"
+39,Carlsberg,90.23,Denmark,"Food, Soft Beverages, Alcohol and Tobacco"
+40,GlaxoSmithKline,90.08,United Kingdom,Drugs and Biotechnology
+41,NCC,90.03,Sweden,Construction
+42,Victorinox,90,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+43,Boehringer Ingelheim,89.95,Germany,Drugs and Biotechnology
+44,Procter & Gamble,89.89,Switzerland,Packaged Goods
+45,Rolls-Royce,89.81,United Kingdom,"Aerospace, Defence, Manufacture of Transport Equipment"
+46,Marriott International,89.79,Germany,Travel and Leisure
+47,"Groupe Rocher (Yves Rocher, Petit Bateau)",89.65,France,Packaged Goods
+48,Novo Nordisk,89.57,Denmark,Drugs and Biotechnology
+49,IBM,89.54,Germany,"IT, Internet, Software and Services"
+50,Gruppo Campari,89.39,Italy,"Food, Soft Beverages, Alcohol and Tobacco"
+51,Chanel,89.24,United Kingdom,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+52,Roche,89.22,Switzerland,Drugs and Biotechnology
+53,Apple,89.1,Ireland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+54,Dell Technologies,88.93,United Kingdom,"IT, Internet, Software and Services"
+55,Avio Aero,88.81,Italy,"Aerospace, Defence, Manufacture of Transport Equipment"
+56,Carey Glass,88.53,Ireland,"Manufacture and Processing of Materials, Metals and Paper"
+57,River Island,88.45,United Kingdom,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+58,Nvidia,88.39,Germany,"IT, Internet, Software and Services"
+59,Porsche,88.29,Germany,Automotive (Producers and Suppliers)
+60,AMAC Aerospace,88.25,Switzerland,"Aerospace, Defence, Manufacture of Transport Equipment"
+61,Eiffage Group,88.22,France,Construction
+62,Asus,88.2,Netherlands,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+63,Telus Digital,88.13,Austria,"IT, Internet, Software and Services"
+64,DM-Drogerie Markt,88.07,Germany,Retail
+65,Fromageries Bel,88.06,France,"Food, Soft Beverages, Alcohol and Tobacco"
+66,Volvo Car Group,87.78,Sweden,Automotive (Producers and Suppliers)
+67,Dow,87.68,Switzerland,"Oil and Gas Operations, Mining, and Chemicals"
+68,Aviva,87.64,United Kingdom,Insurance
+69,Zoetis,87.63,Ireland,Drugs and Biotechnology
+70,Novartis,87.57,Switzerland,Drugs and Biotechnology
+71,Philips,87.56,Netherlands,Healthcare Equipment and Services
+72,Swisscom,87.55,Switzerland,"Telecommunications Services, Cable Supplier"
+73,Adobe,87.47,Ireland,"IT, Internet, Software and Services"
+74,Liebherr,87.45,Switzerland,"Aerospace, Defence, Manufacture of Transport Equipment"
+75,Leonardo,87.33,Italy,"Aerospace, Defence, Manufacture of Transport Equipment"
+76,Michelin,87.32,France,Automotive (Producers and Suppliers)
+77,NGE,87.3,France,Construction
+78,Covéa Group,87.28,France,Insurance
+79,Radisson Hotel Group,87.12,Belgium,Travel and Leisure
+80,Decathlon,87.12,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+81,Stihl,87.1,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+82,Volkswagen,87.08,Germany,Automotive (Producers and Suppliers)
+83,Symrise,87.05,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+84,Boston Scientific,87.05,France,Healthcare Equipment and Services
+85,EDF,86.88,France,Utilities
+86,Kärcher,86.86,Germany,Packaged Goods
+87,Perfetti Van Melle,86.7,Netherlands,"Food, Soft Beverages, Alcohol and Tobacco"
+88,Schneider Electric,86.65,France,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+89,AstraZeneca,86.65,United Kingdom,Drugs and Biotechnology
+90,adidas,86.61,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+91,Hitachi,86.59,United Kingdom,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+92,Sisk Group,86.54,Ireland,Construction
+93,Tod’s,86.5,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+94,Siemens,86.46,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+95,Tetra Pak International,86.46,Switzerland,"Manufacture and Processing of Materials, Metals and Paper"
+96,Fraunhofer Gesellschaft,86.41,Germany,"IT, Internet, Software and Services"
+97,King & Moffatt Building Services,86.31,Ireland,Construction
+98,Goodyear Dunlop,86.31,Belgium,Automotive (Producers and Suppliers)
+99,Angelini Industries,86.2,Italy,Drugs and Biotechnology
+100,Sanofi,86.19,France,Drugs and Biotechnology
+101,ITK Engineering,86.19,Germany,Automotive (Producers and Suppliers)
+102,Sage,86.13,United Kingdom,"IT, Internet, Software and Services"
+103,Systra,86.09,France,"Engineering, Manufacturing"
+104,Danone,85.95,France,"Food, Soft Beverages, Alcohol and Tobacco"
+105,Nike,85.94,Netherlands,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+106,Sony,85.89,United Kingdom,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+107,KONE,85.87,Finland,"Engineering, Manufacturing"
+108,Witzenmann,85.85,Germany,Automotive (Producers and Suppliers)
+109,Hochtief,85.83,Germany,Construction
+110,Enel Group,85.8,Italy,Utilities
+111,Club Med,85.71,France,Travel and Leisure
+112,Webuild,85.64,Italy,Construction
+113,Banca Mediolanum,85.61,Italy,Banking and Financial Services
+114,UPM,85.6,Finland,"Manufacture and Processing of Materials, Metals and Paper"
+115,Telia Company,85.53,Sweden,"Telecommunications Services, Cable Supplier"
+116,Marti,85.49,Switzerland,Construction
+117,Scania,85.46,Sweden,Automotive (Producers and Suppliers)
+118,Solvay,85.45,Belgium,"Oil and Gas Operations, Mining, and Chemicals"
+119,Arkema,85.43,France,"Oil and Gas Operations, Mining, and Chemicals"
+120,Ikea,85.41,Netherlands,Retail
+121,Atlas Copco,85.39,Sweden,"Engineering, Manufacturing"
+122,Telenor,85.3,Norway,"Telecommunications Services, Cable Supplier"
+123,Porr,85.25,Austria,Construction
+124,MBDA,85.15,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+125,Biomérieux,85.06,France,Drugs and Biotechnology
+126,Ferrero,85.04,Luxembourg,"Food, Soft Beverages, Alcohol and Tobacco"
+127,ABB,85,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+128,Mars,84.99,Denmark,"Food, Soft Beverages, Alcohol and Tobacco"
+129,Prada Group,84.93,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+130,Cosmo Consult,84.69,Germany,Consulting and Accounting
+131,Engie,84.66,France,Utilities
+132,Air Liquide,84.64,France,"Oil and Gas Operations, Mining, and Chemicals"
+133,Phoenix Contact,84.53,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+134,Sick,84.49,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+135,Banque CIC,84.44,France,Banking and Financial Services
+136,Leroy Merlin,84.39,France,Retail
+137,Merck,84.37,Germany,Drugs and Biotechnology
+138,Mapei,84.36,Italy,Drugs and Biotechnology
+139,Dalli Group,84.27,Germany,Drugs and Biotechnology
+140,PayPal,84.23,Luxembourg,Banking and Financial Services
+141,SEW Usocome,84.2,Germany,"Manufacture and processing of materials, metals and paper"
+142,Bosch,84.17,Germany,Automotive (Producers and Suppliers)
+143,Red Bull,84.14,Austria,"Food, Soft Beverages, Alcohol and Tobacco"
+144,Huawei,84.11,Germany,"Telecommunications Services, Cable Supplier"
+145,Schweizerische Bundesbahnen (SBB),84.06,Switzerland,Transportation and Logistics
+146,Buzzi Unicem,84.01,Italy,"Manufacture and processing of materials, metals and paper"
+147,ITV,83.95,United Kingdom,Media and Advertising
+148,Admiral Group,83.95,United Kingdom,Insurance
+149,Deutz,83.94,Germany,"Engineering, Manufacturing"
+150,Hilton Hotels & Resorts,83.87,United Kingdom,Travel and Leisure
+151,Fincantieri,83.82,Italy,Automotive (Producers and Suppliers)
+152,RWE,83.78,Germany,Utilities
+153,Barilla,83.72,Italy,"Food, Soft Beverages, Alcohol and Tobacco"
+154,Cargo24,83.7,Switzerland,Transportation and Logistics
+155,Bausch + Lomb,83.69,United Kingdom,Healthcare Equipment and Services
+156,Microchip Technology,83.69,Ireland,"IT, Internet, Software and Services"
+157,Crédit Mutuel,83.64,France,Banking and Financial Services
+158,JLR,83.53,United Kingdom,Automotive (Producers and Suppliers)
+159,Abanca,83.51,Spain,Banking and Financial Services
+160,Schindler,83.46,Switzerland,"Engineering, Manufacturing"
+161,Hermès,83.46,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+162,New Balance,83.44,United Kingdom,Retail
+163,Lindt & Sprüngli,83.39,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+164,Demant,83.35,Denmark,Healthcare Equipment and Services
+165,Nando’s,83.32,United Kingdom,Restaurants
+166,Budimex,83.31,Poland,Construction
+167,Giorgio Armani,83.25,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+168,Rheinmetall,83.23,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+169,Foot Locker,83.17,Netherlands,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+170,Dunnes Stores,83.13,Ireland,Retail
+171,Datev,83.04,Germany,"IT, Internet, Software and Services"
+172,Orlen,83.03,Poland,"Oil and Gas Operations, Mining, and Chemicals"
+173,Synergie,82.97,France,Business Services and Supplies
+174,Wood,82.95,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+175,Barclays Bank,82.94,United Kingdom,Banking and Financial Services
+176,Canon,82.91,United Kingdom,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+177,Mastercard,82.89,Belgium,Banking and Financial Services
+178,Ferrari,82.88,Italy,Automotive (Producers and Suppliers)
+179,Erste Group,82.88,Austria,Banking and Financial Services
+180,Saint-Gobain,82.86,France,"Manufacture and Processing of Materials, Metals and Paper"
+181,Vinci Group,82.82,France,Transportation and Logistics
+182,Bahlsen,82.63,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+183,Abus,82.63,Germany,"Engineering, Manufacturing"
+184,Oracle,82.62,United Kingdom,"IT, Internet, Software and Services"
+185,Saica,82.6,Spain,"Manufacture and Processing of Materials, Metals and Paper"
+186,Bank of Ireland,82.58,Ireland,Banking and Financial Services
+187,Western Union,82.52,Austria,Banking and Financial Services
+188,Jack Wolfskin,82.51,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+189,Vattenfall,82.5,Sweden,Utilities
+190,Continental,82.48,Germany,Automotive (Producers and Suppliers)
+191,SMA BTP,82.45,Germany,Insurance
+192,PUMA,82.43,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+193,Sacmi,82.43,Italy,"Engineering, Manufacturing"
+194,The Boston Consulting Group (BCG),82.4,United Kingdom,Consulting and Accounting
+195,"BD (Becton, Dickinson and Co.)",82.39,Switzerland,Healthcare Equipment and Services
+196,Heineken,82.29,Netherlands,"Food, Soft Beverages, Alcohol and Tobacco"
+197,Laboratoires Pierre Fabre,82.17,France,Drugs and Biotechnology
+198,Fedrigoni,82.17,Italy,fedrigoni.com
+199,BAE Systems,82.14,United Kingdom,"Aerospace, Defence, Manufacture of Transport Equipment"
+200,Version1 Software,81.99,United Kingdom,"IT, Internet, Software and Services"
+201,SKF Group,81.93,Sweden,"Manufacture and Processing of Materials, Metals and Paper"
+202,Allianz,81.86,Germany,Insurance
+203,Alstom,81.86,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+204,LinkedIn,81.85,Ireland,"IT, Internet, Software and Services"
+205,Jungheinrich,81.83,Germany,"Engineering, Manufacturing"
+206,HP (Hewlett-Packard),81.66,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+207,Pizzarotti,81.62,Italy,Construction
+208,Bombardier,81.61,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+209,Takeda,81.58,Switzerland,Drugs and Biotechnology
+210,EssilorLuxottica,81.5,France,Healthcare Equipment and Services
+211,LyondellBasell,81.49,Netherlands,"Manufacture and processing of materials, metals and paper"
+212,Henkel,81.48,Germany,Packaged Goods
+213,Grand Frais,81.45,France,Retail
+214,Kiabi,81.35,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+215,3M,81.3,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+216,Mondelēz International,81.26,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+217,Experian,81.25,Ireland,"IT, Internet, Software and Services"
+218,DZ Bank Group,81.23,Germany,Banking and Financial Services
+219,Airbnb,81.15,Ireland,Travel and Leisure
+220,Agence France Presse,81.14,France,Media and Advertising
+221,Intesa Sanpaolo,81.08,Italy,Banking and Financial Services
+222,Suir Engineering,81.06,Ireland,"Engineering, Manufacturing"
+223,Hilti,80.97,Liechtenstein,Wholesale
+224,Harting Technologiegruppe,80.96,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+225,Abbott,80.95,Germany,Healthcare Equipment and Services
+226,CNH Industrial,80.93,United Kingdom,Construction
+227,Fronius,80.92,Austria,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+228,Beiersdorf,80.85,Germany,Packaged Goods
+229,Costco,80.85,United Kingdom,Retail
+230,Telefónica,80.67,Spain,"Telecommunications Services, Cable Supplier"
+231,Arla Foods,80.52,Denmark,"Food, Soft Beverages, Alcohol and Tobacco"
+232,ADM,80.5,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+233,Asseco,80.45,Poland,"IT, Internet, Software and Services"
+234,Dräger,80.4,Germany,Healthcare Equipment and Services
+235,Unilever,80.39,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+236,Estée Lauder,80.37,France,Packaged Goods
+237,Butlers,80.37,Germany,Retail
+238,Legal & General,80.35,United Kingdom,Banking and Financial Services
+239,Hertz,80.34,United Kingdom,Retail
+240,Orano,80.34,France,Utilities
+241,ZF Friedrichshafen,80.33,Germany,Automotive (Producers and Suppliers)
+242,Marcegaglia,80.32,Italy,"Manufacture and processing of materials, metals and paper"
+243,Coca-Cola Europacific Partners,80.28,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+244,Kapsch Group,80.24,Austria,Transportation and Logistics
+245,Deutsche Telekom,80.21,Germany,"Telecommunications Services, Cable Supplier"
+246,An Post,80.21,Ireland,Transportation and Logistics
+247,Orange,80.2,France,"Telecommunications Services, Cable Supplier"
+248,Smith+Nephew,80.16,United Kingdom,Healthcare Equipment and Services
+249,Hugo Boss,80.1,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+250,Duvenbeck,80.1,Germany,Transportation and Logistics
+251,Prysmian Group,80.06,Italy,"Manufacture and Processing of Materials, Metals and Paper"
+252,Iberdrola,80.01,Spain,Utilities
+253,Versace,80,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+254,Shell,79.98,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+255,Evonik Industries,79.82,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+256,Groupama,79.81,France,Insurance
+257,Asos,79.73,United Kingdom,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+258,Eon,79.71,Germany,Utilities
+259,OPmobility,79.67,France,Automotive (Producers and Suppliers)
+260,Sport 2000,79.65,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+261,Vetter Pharma-Fertigung,79.62,Germany,Healthcare Equipment and Services
+262,Hewlett Packard Enterprise,79.58,Switzerland,"IT, Internet, Software and Services"
+263,Maersk,79.55,Denmark,Transportation and Logistics
+264,Johnson & Johnson,79.48,Switzerland,Drugs and Biotechnology
+265,Kostal,79.47,Germany,Automotive (Producers and Suppliers)
+266,Jacobs,79.41,United Kingdom,"Engineering, Manufacturing"
+267,STMicroelectronics,79.23,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+268,Currys,79.15,United Kingdom,Retail
+269,Infineon,79.1,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+270,Bayer,79.1,Germany,Drugs and Biotechnology
+271,AGCO,79.07,Switzerland,"Aerospace, Defence, Manufacture of Transport Equipment"
+272,AXA,79.07,France,Insurance
+273,Palfinger,79.07,Austria,"Engineering, Manufacturing"
+274,Pirelli,79.06,Italy,Automotive (Producers and Suppliers)
+275,Rexel,79.04,France,Wholesale
+276,AIB (Allied Irish Banks),79.01,Ireland,Banking and Financial Services
+277,Aon,78.98,United Kingdom,Insurance
+278,Edmond de Rothschild,78.95,Switzerland,Banking and Financial Services
+279,Coloplast,78.93,Denmark,Healthcare Equipment and Services
+280,Sky,78.89,United Kingdom,Media and Advertising
+281,Intel,78.88,Ireland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+282,Pko Bank Polski,78.82,Poland,Banking and Financial Services
+283,Bouygues,78.8,France,Construction
+284,Deutsche Bank,78.79,Germany,Banking and Financial Services
+285,Bardusch,78.74,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+286,Nordea Bank,78.71,Finland,Banking and Financial Services
+287,Luigi Lavazza,78.7,Italy,"Food, Soft Beverages, Alcohol and Tobacco"
+288,Otto Bock,78.69,Germany,"Engineering, Manufacturing"
+289,Helvetia,78.69,Switzerland,Insurance
+290,Present,78.58,Italy,Consulting and Accounting
+291,Dynatrace,78.57,Austria,"IT, Internet, Software and Services"
+292,Raiffeisen Bank,78.53,Austria,Banking and Financial Services
+293,Implenia,78.51,Switzerland,Construction
+294,Mondi,78.49,Austria,"Manufacture and processing of materials, metals and paper"
+295,IMA Group,78.42,Italy,"Engineering, Manufacturing"
+296,Holcim Group,78.38,Switzerland,Construction
+297,Pandora,78.35,Denmark,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+298,Fresenius,78.35,Germany,Healthcare Equipment and Services
+299,Bank of America,78.34,Ireland,Banking and Financial Services
+300,AddLife,78.3,Sweden,Healthcare Equipment and Services
+301,Philip Morris International,78.22,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+302,ARC,78.21,France,"Manufacture and processing of materials, metals and paper"
+303,AECOM,78.17,United Kingdom,"Engineering, Manufacturing"
+304,Lufthansa,78.16,Germany,Transportation and Logistics
+305,Hyatt Hotels Corporation,78.14,Switzerland,Travel and Leisure
+306,United Internet,78.14,Germany,"IT, Internet, Software and Services"
+307,Lyreco,78.01,France,Wholesale
+308,Voith,78,Germany,"Engineering, Manufacturing"
+309,LG Corporation,77.98,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+310,Breedon Group,77.94,United Kingdom,Construction
+311,ING,77.89,Netherlands,Banking and Financial Services
+312,Audi,77.76,Germany,Automotive (Producers and Suppliers)
+313,Renault,77.75,France,Automotive (Producers and Suppliers)
+314,Stena,77.71,Sweden,"Oil and Gas Operations, Mining, and Chemicals"
+315,Strabag,77.65,Austria,Construction
+316,Nestlé,77.62,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+317,SSE,77.61,United Kingdom,Utilities
+318,Nissan Motor Corporation,77.56,France,Automotive (Producers and Suppliers)
+319,Grant Thornton,77.55,United Kingdom,Consulting and Accounting
+320,Welser Profile,77.54,Austria,"Manufacture and processing of materials, metals and paper"
+321,Arvedi,77.51,Italy,"Manufacture and processing of materials, metals and paper"
+322,Achmea,77.41,Netherlands,Banking and Financial Services
+323,Logista,77.4,Spain,Wholesale
+324,Ariston Group,77.4,Netherlands,Utilities
+325,Cegedim,77.4,France,"IT, Internet, Software and Services"
+326,Aalberts Surface Technologies,77.39,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+327,Endress+Hauser,77.31,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+328,Bilfinger,77.3,Germany,"Engineering, Manufacturing"
+329,Royal London,77.3,United Kingdom,Insurance
+330,KPMG,77.23,Netherlands,Consulting and Accounting
+331,Vodafone,77.21,United Kingdom,"Telecommunications Services, Cable Supplier"
+332,Home Instead,77.19,United Kingdom,Healthcare (Social)
+333,Salesforce,77.18,Ireland,"IT, Internet, Software and Services"
+334,Bonduelle,77.11,France,"Food, Soft Beverages, Alcohol and Tobacco"
+335,Rabobank,77.11,Netherlands,Banking and Financial Services
+336,INTERSPORT,77.06,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+337,American Express Company (AmEx),77.05,United Kingdom,Banking and Financial Services
+338,Honda,77.04,United Kingdom,Automotive (Producers and Suppliers)
+339,Daimler Truck,76.99,Germany,Automotive (Producers and Suppliers)
+340,Wüstenrot & Württembergische,76.96,Germany,Insurance
+341,Xerox,76.92,United Kingdom,Packaged Goods
+342,Nokia,76.88,Finland,"Telecommunications Services, Cable Supplier"
+343,Pietro Fiorentini,76.88,Italy,"Engineering, Manufacturing"
+344,Hansa-Flex,76.81,Germany,"Manufacture and processing of materials, metals and paper"
+345,Avanade,76.73,United Kingdom,"IT, Internet, Software and Services"
+346,BearingPoint,76.69,Netherlands,Consulting and Accounting
+347,Electrolux,76.69,Sweden,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+348,Verisure,76.69,Switzerland,"IT, Internet, Software and Services"
+349,Pfizer,76.63,Belgium,Drugs and Biotechnology
+350,Schaeffler-Gruppe,76.54,Germany,Automotive (Producers and Suppliers)
+351,Heinz,76.52,Netherlands,"Food, Soft Beverages, Alcohol and Tobacco"
+352,JP Morgan,76.51,United Kingdom,Banking and Financial Services
+353,Dassault Group,76.47,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+354,Medtronic,76.43,Ireland,Healthcare Equipment and Services
+355,Aperam,76.28,Luxembourg,"Manufacture and processing of materials, metals and paper"
+356,Suez,76.22,France,Utilities
+357,Danwood,76.17,Poland,Business Services and Supplies
+358,Jet2.com,76.15,United Kingdom,Transportation and Logistics
+359,Flint Group,75.94,Luxembourg,Media and Advertising
+360,Knapp,75.94,Austria,"Engineering, Manufacturing"
+361,TUI,75.91,Germany,Travel and Leisure
+362,ByteDance,75.82,Ireland,"IT, Internet, Software and Services"
+363,Circle K,75.81,Norway,Retail
+364,Hegelmann Group,75.76,Germany,Transportation and Logistics
+365,BSH Group,75.73,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+366,MED-EL,75.7,Austria,Healthcare Equipment and Services
+367,Kuehne + Nagel,75.57,Switzerland,Transportation and Logistics
+368,Belimo,75.54,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+369,Vestas,75.54,Denmark,"Engineering, Manufacturing"
+370,Voestalpine,75.53,Austria,"Manufacture and Processing of Materials, Metals and Paper"
+371,Intercom,75.53,Ireland,"IT, Internet, Software and Services"
+372,Alcon,75.5,Switzerland,Drugs and Biotechnology
+373,Accor,75.49,France,Travel and Leisure
+374,Apetito,75.49,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+375,Aareal Bank,75.42,Germany,Banking and Financial Services
+376,Grundfos,75.42,Denmark,"Engineering, Manufacturing"
+377,Douglas Group,75.42,Germany,Retail
+378,Claas,75.4,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+379,Aldi Süd,75.39,Germany,Retail
+380,Virgin Group,75.36,United Kingdom,"Telecommunications Services, Cable Supplier"
+381,Panasonic,75.34,Netherlands,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+382,NTT Data,75.3,United Kingdom,"IT, Internet, Software and Services"
+383,Generali,75.3,Italy,Insurance
+384,Stäubli,75.26,Switzerland,"Engineering, Manufacturing"
+385,Wacker Neuson,75.18,Germany,"Engineering, Manufacturing"
+386,Stiebel Eltron,75.18,Germany,"Engineering, Manufacturing"
+387,Mapfre,75.17,Spain,Insurance
+388,Mango,75.11,Spain,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+389,Groupe SII,75.11,France,"IT, Internet, Software and Services"
+390,Danieli,75.07,Italy,"Manufacture and processing of materials, metals and paper"
+391,Unicredit,75.07,Italy,Banking and Financial Services
+392,Viessmann,75.05,Germany,"Engineering, Manufacturing"
+393,Natuzzi,75.02,Italy,Packaged Goods
+394,Bobst Group,75.01,Switzerland,"Engineering, Manufacturing"
+395,Genesys,74.98,United Kingdom,"IT, Internet, Software and Services"
+396,Valmet,74.92,Finland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+397,Die Schweizerische Post,74.91,Switzerland,Transportation and Logistics
+398,Fincons Group,74.87,Italy,"IT, Internet, Software and Services"
+399,ADP,74.87,France,Business Services and Supplies
+400,Heraeus,74.84,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+401,Fujitsu,74.82,United Kingdom,"IT, Internet, Software and Services"
+402,AbbVie,74.82,France,Drugs and Biotechnology
+403,BP,74.81,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+404,Ericsson,74.81,Sweden,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+405,Specsavers,74.71,United Kingdom,Retail
+406,Kering,74.7,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+407,Sappi,74.65,Belgium,"Manufacture and Processing of Materials, Metals and Paper"
+408,Carglass,74.63,France,Automotive (Producers and Suppliers)
+409,Bridgestone,74.62,Belgium,Automotive (Producers and Suppliers)
+410,Groupe Pomona,74.61,France,Wholesale
+411,Epam Systems,74.53,Switzerland,"IT, Internet, Software and Services"
+412,Boots,74.5,United Kingdom,Retail
+413,Bank of England,74.49,United Kingdom,Banking and Financial Services
+414,OMV,74.45,Austria,"Oil and Gas Operations, Mining, and Chemicals"
+415,Comet,74.43,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+416,STEF,74.43,France,Transportation and Logistics
+417,Shiseido,74.42,France,Packaged Goods
+418,RATP,74.42,France,Transportation and Logistics
+419,Finnair,74.39,Finland,Transportation and Logistics
+420,ifm-Unternehmensgruppe,74.39,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+421,CBRE,74.38,United Kingdom,Business Services and Supplies
+422,Granarolo,74.35,Italy,"Food, Soft Beverages, Alcohol and Tobacco"
+423,Havas Group,74.34,France,Media and Advertising
+424,Eaton,74.33,Ireland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+425,Lush,74.32,United Kingdom,Retail
+426,Octapharma,74.31,Switzerland,Drugs and Biotechnology
+427,Agilent Technologies,74.25,Germany,Healthcare Equipment and Services
+428,Getinge,74.24,Sweden,Healthcare Equipment and Services
+429,BMI,74.17,United Kingdom,Construction
+430,HSBC Bank,74.06,United Kingdom,Banking and Financial Services
+431,Forvia Hella,74.01,Germany,Automotive (Producers and Suppliers)
+432,Vorwerk,73.91,Germany,Packaged Goods
+433,Jysk,73.9,Denmark,Retail
+434,Italgas,73.9,Italy,Utilities
+435,Marks & Spencer,73.89,United Kingdom,Retail
+436,ELT Elettronica,73.86,Italy,Healthcare Equipment and Services
+437,Uniqa Insurance Group,73.86,Austria,Insurance
+438,Aurubis,73.85,Germany,Utilities
+439,TD Synnex,73.85,Germany,"IT, Internet, Software and Services"
+440,Aareon,73.84,Germany,"IT, Internet, Software and Services"
+441,Villeroy & Boch,73.8,Germany,"Manufacture and processing of materials, metals and paper"
+442,Caterpillar,73.72,United Kingdom,"Aerospace, Defence, Manufacture of Transport Equipment"
+443,Pernod Ricard,73.63,France,"Food, Soft Beverages, Alcohol and Tobacco"
+444,Jeff de Bruges,73.63,France,Retail
+445,BNP Paribas,73.58,France,Banking and Financial Services
+446,Uber,73.56,Netherlands,Travel and Leisure
+447,Velux,73.54,Denmark,Construction
+448,JD Sports,73.52,United Kingdom,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+449,Toyota Motor Corporation,73.51,Belgium,Automotive (Producers and Suppliers)
+450,Johann Bunte,73.46,Germany,Construction
+451,Bauhaus,73.44,Germany,Retail
+452,Holland & Barrett,73.3,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+453,Teva,73.24,Netherlands,Drugs and Biotechnology
+454,Scherdel,73.23,Germany,Automotive (Producers and Suppliers)
+455,DSV,73.23,Denmark,Transportation and Logistics
+456,Dairygold,73.22,Ireland,"Food, Soft Beverages, Alcohol and Tobacco"
+457,OTB Group,73.15,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+458,Amadeus,73.15,Spain,"IT, Internet, Software and Services"
+459,Grupa PZU,73.09,Poland,Insurance
+460,Deichmann,73.09,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+461,Amazon,73.08,Luxembourg,Retail
+462,Franke Group,73.08,Switzerland,"Engineering, Manufacturing"
+463,Merlin Entertainments,73.08,United Kingdom,Travel and Leisure
+464,Hubspot,73.07,Ireland,"IT, Internet, Software and Services"
+465,Ingersoll Rand,73.07,Germany,"Engineering, Manufacturing"
+466,Spar International,73.06,Netherlands,Retail
+467,Booking.com,73.05,Netherlands,Travel and Leisure
+468,Baxter,73.04,Switzerland,Drugs and Biotechnology
+469,PwC (PricewaterhouseCoopers),73.03,United Kingdom,Consulting and Accounting
+470,Müller,73.01,Germany,Retail
+471,Poujoulat,73.01,France,Construction
+472,Olympus,72.98,Germany,Healthcare Equipment and Services
+473,Inditex,72.96,Spain,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+474,BDO,72.96,Belgium,Consulting and Accounting
+475,TTTech Group,72.95,Austria,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+476,eBay,72.94,Germany,"IT, Internet, Software and Services"
+477,JCDecaux,72.94,France,Media and Advertising
+478,Swarovski,72.86,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+479,Thermo Fisher Scientific,72.84,Germany,Drugs and Biotechnology
+480,MAN Truck & Bus,72.8,Germany,"Engineering, Manufacturing"
+481,Avery Dennison,72.8,Netherlands,"Manufacture and Processing of Materials, Metals and Paper"
+482,The Rehab Group,72.71,Ireland,Healthcare (Social)
+483,Trumpf,72.66,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+484,Viatris,72.66,United Kingdom,Drugs and Biotechnology
+485,Freudenberg,72.59,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+486,PizzaExpress,72.57,United Kingdom,Restaurants
+487,Allgeier,72.54,Germany,"IT, Internet, Software and Services"
+488,Amgen,72.53,Switzerland,Drugs and Biotechnology
+489,MFE - Mediaforeurope,72.51,Italy,Media and Advertising
+490,Georg Fischer,72.38,Switzerland,"Engineering, Manufacturing"
+491,Moltiply Group,72.38,Italy,"IT, Internet, Software and Services"
+492,Deloitte,72.36,United Kingdom,Consulting and Accounting
+493,Technolit,72.33,Germany,Business Services and Supplies
+494,Cemex,72.26,United Kingdom,"Manufacture and processing of materials, metals and paper"
+495,Wintersteiger,72.25,Austria,"Engineering, Manufacturing"
+496,Eni,72.23,Italy,"Oil and Gas Operations, Mining, and Chemicals"
+497,STI Group,72.22,Germany,"Manufacture and processing of materials, metals and paper"
+498,Reckitt,72.21,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+499,Felbermayr,72.2,Austria,Construction
+500,Goldbeck,72.18,Germany,Construction
+501,Danske Bank,72.18,Denmark,Banking and Financial Services
+502,Groupe Atlantic,72.17,France,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+503,General Mills,72.17,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+504,Bechtle,72.11,Germany,"IT, Internet, Software and Services"
+505,Wetherspoon,72.1,United Kingdom,Restaurants
+506,Rockwell Collins,72.09,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+507,FedEx,72.06,Netherlands,Transportation and Logistics
+508,CGI,72.04,France,"IT, Internet, Software and Services"
+509,Piaggio Group,72,Italy,Automotive (Producers and Suppliers)
+510,CSL Behring,71.99,Germany,Drugs and Biotechnology
+511,Fnac Darty,71.9,France,Retail
+512,Norauto,71.88,France,Retail
+513,Deutsche Bahn,71.88,Germany,Transportation and Logistics
+514,Ansaldo Energia,71.86,Italy,"Engineering, Manufacturing"
+515,H&M Hennes & Mauritz,71.86,Sweden,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+516,Gartner,71.72,United Kingdom,Consulting and Accounting
+517,European Space Agency,71.72,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+518,Signal Iduna,71.72,Germany,Insurance
+519,Kaeser Kompressoren,71.7,Germany,"Engineering, Manufacturing"
+520,Bauer Gruppe,71.69,Germany,Construction
+521,Crédit Agricole,71.65,France,Banking and Financial Services
+522,Swiss Life,71.63,Switzerland,Insurance
+523,Eurospin,71.63,Italy,Retail
+524,Euronics,71.6,Netherlands,Retail
+525,Charles River Laboratories,71.59,United Kingdom,Drugs and Biotechnology
+526,WPP,71.54,United Kingdom,Media and Advertising
+527,Mercedes-Benz,71.53,Germany,Automotive (Producers and Suppliers)
+528,Babcock International,71.53,United Kingdom,"Engineering, Manufacturing"
+529,Aldi Nord,71.51,Germany,Retail
+530,Air Dolomiti,71.45,Italy,Transportation and Logistics
+531,Scheidt & Bachmann,71.45,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+532,BlackRock,71.42,United Kingdom,Banking and Financial Services
+533,Accenture,71.41,Ireland,"IT, Internet, Software and Services"
+534,Lindner Hotels & Resorts,71.34,Germany,Travel and Leisure
+535,Fater,71.3,Italy,Packaged Goods
+536,Veolia,71.26,France,Utilities
+537,SEB (Skandinaviska Enskilda Banken) Group,71.24,Sweden,Banking and Financial Services
+538,ARAG,71.23,Germany,Insurance
+539,Melitta,71.22,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+540,Greiner,71.21,Austria,"Manufacture and processing of materials, metals and paper"
+541,Otis,71.15,Sweden,"Engineering, Manufacturing"
+542,Yaskawa,71.13,Germany,Healthcare Equipment and Services
+543,Wavin,71.13,Netherlands,Wholesale
+544,Würth Group,71.13,Germany,Wholesale
+545,Veepee,71.09,France,Retail
+546,Acer,71.07,Switzerland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+547,Alfred Talke,71.06,Germany,Transportation and Logistics
+548,SADE (Compagnie Générale de Travaux d’Hydrauliques),71.06,France,Construction
+549,Paprec,71.03,France,Utilities
+550,XPO,70.97,France,Transportation and Logistics
+551,Konica Minolta,70.91,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+552,Technip Energies,70.9,France,Utilities
+553,Johnson Controls,70.89,Ireland,Automotive (Producers and Suppliers)
+554,Bijou Brigitte,70.89,Germany,Retail
+555,Lonza,70.86,Switzerland,Drugs and Biotechnology
+556,SPIE,70.8,France,Construction
+557,Fanuc,70.77,Luxembourg,"Engineering, Manufacturing"
+558,Goldman Sachs,70.75,Germany,Banking and Financial Services
+559,easyJet,70.74,United Kingdom,Transportation and Logistics
+560,Electro Dépôt,70.66,France,Retail
+561,KSB,70.65,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+562,Marsh & McLennan Companies,70.62,Germany,Consulting and Accounting
+563,Storck,70.6,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+564,Migros,70.59,Switzerland,Retail
+565,Groupe BPCE,70.56,France,Banking and Financial Services
+566,IQVIA,70.56,United Kingdom,Consulting and Accounting
+567,Murex,70.52,France,"IT, Internet, Software and Services"
+568,BOS Gruppe,70.45,Germany,Automotive (Producers and Suppliers)
+569,Doppelmayr Group,70.38,Austria,Transportation and Logistics
+570,Worldline,70.35,France,Banking and Financial Services
+571,KUKA,70.34,Germany,"Engineering, Manufacturing"
+572,Stripe,70.32,Ireland,"Aerospace, Defence, Manufacture of Transport Equipment"
+573,Maisons du Monde,70.29,France,Retail
+574,MediaMarktSaturn Retail Group,70.26,Germany,Retail
+575,DS Smith,70.25,United Kingdom,"Manufacture and Processing of Materials, Metals and Paper"
+576,Haribo,70.24,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+577,Dorfner-Gruppe,70.19,Germany,Business Services and Supplies
+578,Bupa,70.19,United Kingdom,Healthcare (Social)
+579,Coppenrath & Wiese,70.19,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+580,Omron,70.15,Netherlands,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+581,Benteler,70.14,Austria,Automotive (Producers and Suppliers)
+582,VEM,70.14,Germany,"Engineering, Manufacturing"
+583,Cargill International,70.09,Belgium,"Food, Soft Beverages, Alcohol and Tobacco"
+584,KOS,70.08,Italy,Healthcare (Social)
+585,Blumenbecker,70.07,Germany,"Engineering, Manufacturing"
+586,Simona,70.05,Germany,"Manufacture and processing of materials, metals and paper"
+587,Pret A Manger,70.05,United Kingdom,Restaurants
+588,Tesco,70.03,United Kingdom,Retail
+589,AAK,69.99,Sweden,"Food, Soft Beverages, Alcohol and Tobacco"
+590,Ehrmann,69.99,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+591,El Corte Ingles,69.99,Spain,Retail
+592,Autogrill,69.94,Italy,Restaurants
+593,Omnicom Group,69.93,United Kingdom,Media and Advertising
+594,SNCF,69.84,France,Transportation and Logistics
+595,CAE,69.79,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+596,Komatsu,69.78,Belgium,Automotive (Producers and Suppliers)
+597,IAV,69.76,Germany,Automotive (Producers and Suppliers)
+598,Bio-Rad,69.75,Germany,Drugs and Biotechnology
+599,Hapag-Lloyd,69.71,Germany,Transportation and Logistics
+600,Ahold Delhaize,69.64,Netherlands,Retail
+601,Auto Partner,69.63,Poland,Automotive (Producers and Suppliers)
+602,Techint Group,69.63,Italy,"Manufacture and Processing of Materials, Metals and Paper"
+603,Diageo,69.61,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+604,Gelita,69.6,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+605,Longchamp,69.59,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+606,Jula,69.57,Sweden,Retail
+607,Clarins,69.55,France,Packaged Goods
+608,ALBA Group,69.54,Germany,Utilities
+609,BBGR,69.54,France,Healthcare Equipment and Services
+610,Asics,69.52,Netherlands,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+611,Vienna Insurance Group (VIG),69.52,Austria,Insurance
+612,fischer,69.49,Germany,"Manufacture and processing of materials, metals and paper"
+613,Seagate Technology,69.45,Ireland,"IT, Internet, Software and Services"
+614,Catalent,69.42,Germany,Consulting and Accounting
+615,B. Braun,69.41,Germany,Healthcare Equipment and Services
+616,Vontobel,69.4,Switzerland,Banking and Financial Services
+617,Artelia,69.39,France,"Engineering, Manufacturing"
+618,Amundi,69.39,France,Banking and Financial Services
+619,Three,69.38,Luxembourg,"Telecommunications Services, Cable Supplier"
+620,Zech Bau,69.34,Germany,Construction
+621,Lorenz Snack-World,69.31,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+622,AT&T,69.22,United Kingdom,"Telecommunications Services, Cable Supplier"
+623,UPS (United Parcel Service),69.19,Belgium,Transportation and Logistics
+624,Reply,69.17,Italy,"IT, Internet, Software and Services"
+625,Haberkorn,69.14,Austria,Wholesale
+626,Adesso,69.14,Germany,"IT, Internet, Software and Services"
+627,Mapal,69.11,Germany,Packaged Goods
+628,IRIS Group,69.05,Belgium,Business Services and Supplies
+629,Cummins,69,United Kingdom,"Engineering, Manufacturing"
+630,Alfred Ritter,68.99,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+631,Kellanova,68.95,Ireland,"Food, Soft Beverages, Alcohol and Tobacco"
+632,Cartier,68.94,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+633,Pepsico,68.88,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+634,De Cecco,68.88,Italy,"Food, Soft Beverages, Alcohol and Tobacco"
+635,The Walt Disney Company,68.83,United Kingdom,Media and Advertising
+636,Anheuser-Busch InBev,68.82,Belgium,"Food, Soft Beverages, Alcohol and Tobacco"
+637,Atos,68.81,France,"IT, Internet, Software and Services"
+638,Dornan Engineering,68.78,Ireland,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+639,Cancom,68.75,Germany,"IT, Internet, Software and Services"
+640,Mace,68.59,United Kingdom,Construction
+641,Princes,68.58,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+642,Advantest,68.57,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+643,Miele,68.42,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+644,Honeywell,68.42,United Kingdom,"Engineering, Manufacturing"
+645,Logitech International,68.39,Switzerland,"IT, Internet, Software and Services"
+646,Hoffmann Group,68.39,Germany,Packaged Goods
+647,Leclerc,68.38,France,Retail
+648,Marelli,68.38,Italy,Automotive (Producers and Suppliers)
+649,Akzo Nobel,68.35,Netherlands,"Oil and Gas Operations, Mining, and Chemicals"
+650,Grafton Group,68.3,Ireland,Wholesale
+651,Heller Gruppe,68.22,Germany,"Engineering, Manufacturing"
+652,Pierre & Vacances-Center Parcs,68.19,France,Travel and Leisure
+653,Arabella Hospitality,68.16,Germany,Travel and Leisure
+654,Groupe SNEF,68.15,France,Construction
+655,Manpower,68.12,Germany,Business Services and Supplies
+656,London Stock Exchange Group,68.01,United Kingdom,Banking and Financial Services
+657,Groupe Iliad,68,France,"IT, Internet, Software and Services"
+658,Kingfisher,67.96,United Kingdom,Retail
+659,Comarch,67.95,Poland,"IT, Internet, Software and Services"
+660,Adecco Group,67.92,Switzerland,Business Services and Supplies
+661,Lenzing,67.91,Austria,"Manufacture and processing of materials, metals and paper"
+662,Akamai Technologies,67.88,Switzerland,"IT, Internet, Software and Services"
+663,Banca Ifis,67.86,Italy,Banking and Financial Services
+664,Metabo,67.84,Germany,Packaged Goods
+665,A1 Group,67.81,Austria,"Telecommunications Services, Cable Supplier"
+666,Müller – Die lila Logistik,67.77,Germany,Transportation and Logistics
+667,PASS,67.77,Germany,Automotive (Producers and Suppliers)
+668,Eataly,67.75,Italy,Retail
+669,Chiesi,67.75,Italy,Drugs and Biotechnology
+670,Coopérative U,67.74,France,Retail
+671,Alain Afflelou,67.71,France,Retail
+672,Software AG,67.69,Germany,"IT, Internet, Software and Services"
+673,Valeo,67.66,France,Automotive (Producers and Suppliers)
+674,Yamamay,67.59,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+675,Polpharma,67.59,Poland,Drugs and Biotechnology
+676,Ralph Lauren,67.54,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+677,Weleda,67.45,Switzerland,Packaged Goods
+678,Materne,67.45,France,"Food, Soft Beverages, Alcohol and Tobacco"
+679,Boccard,67.44,France,"Manufacture and processing of materials, metals and paper"
+680,Colruyt Group,67.36,Belgium,Retail
+681,Dillinger,67.35,Germany,"Manufacture and processing of materials, metals and paper"
+682,Andros,67.34,France,"Food, Soft Beverages, Alcohol and Tobacco"
+683,Bofrost,67.34,Germany,Retail
+684,NXP Semiconductors,67.31,Netherlands,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+685,TXT e-solutions,67.31,Italy,"IT, Internet, Software and Services"
+686,DuPont,67.3,Belgium,"Oil and Gas Operations, Mining, and Chemicals"
+687,Plansee,67.29,Austria,"Manufacture and processing of materials, metals and paper"
+688,Roquette,67.28,France,Drugs and Biotechnology
+689,Schwan-Stabilo,67.25,Germany,Packaged Goods
+690,Mercadona,67.22,Spain,Retail
+691,Randstad,67.22,Netherlands,Business Services and Supplies
+692,Groupe Carrefour,67.21,France,Retail
+693,PSI,67.2,Germany,"IT, Internet, Software and Services"
+694,Edenred,67.17,France,Banking and Financial Services
+695,DMG Mori,67.15,Germany,"Engineering, Manufacturing"
+696,Baccarat,67.15,France,Retail
+697,Monzo Bank,67.14,United Kingdom,Banking and Financial Services
+698,MAHLE,67.13,Germany,Automotive (Producers and Suppliers)
+699,Zalando,67.09,Germany,"IT, Internet, Software and Services"
+700,Sartorius,67.08,Germany,Drugs and Biotechnology
+701,Hays,67.06,United Kingdom,Business Services and Supplies
+702,Emmi Group,67.04,Switzerland,"Food, Soft Beverages, Alcohol and Tobacco"
+703,Indra,67.03,Spain,"IT, Internet, Software and Services"
+704,Bristol Myers Squibb,67.03,Switzerland,Drugs and Biotechnology
+705,Fielmann,67.01,Germany,Retail
+706,McLaren Automotive,66.99,United Kingdom,Automotive (Producers and Suppliers)
+707,Morgan Stanley,66.98,Germany,Banking and Financial Services
+708,DLR Deutsches Zentrum für Luft- und Raumfahrt,66.96,Germany,Consulting and Accounting
+709,Metro,66.94,Germany,Retail
+710,Fehrer Automotive,66.93,Germany,Automotive (Producers and Suppliers)
+711,AG2R La Mondiale,66.92,France,Insurance
+712,Knauf Group,66.91,Germany,"Manufacture and processing of materials, metals and paper"
+713,Enercon,66.9,Germany,"Engineering, Manufacturing"
+714,Fayat Bâtiment,66.9,France,Construction
+715,Stora Enso,66.87,Finland,"Manufacture and processing of materials, metals and paper"
+716,Dr. Oetker,66.84,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+717,Zott,66.81,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+718,Savencia Fromage & Dairy,66.8,France,"Food, Soft Beverages, Alcohol and Tobacco"
+719,Exyte Group,66.79,Germany,"Engineering, Manufacturing"
+720,MVV Energie,66.79,Germany,Utilities
+721,Air Products,66.77,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+722,Wolters Kluwer,66.75,Netherlands,"IT, Internet, Software and Services"
+723,DHL,66.66,Germany,Transportation and Logistics
+724,SAS,66.64,Germany,"IT, Internet, Software and Services"
+725,Colt Technology Services,66.63,United Kingdom,"Telecommunications Services, Cable Supplier"
+726,Travelodge,66.63,United Kingdom,Travel and Leisure
+727,Santander,66.62,Spain,Banking and Financial Services
+728,Abiogen Pharma,66.61,Italy,Drugs and Biotechnology
+729,Alpla,66.58,Austria,"Manufacture and processing of materials, metals and paper"
+730,Frequentis,66.56,Austria,"IT, Internet, Software and Services"
+731,Globallogic,66.56,Ireland,"IT, Internet, Software and Services"
+732,ThyssenKrupp,66.48,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+733,Stepstone,66.48,Germany,"IT, Internet, Software and Services"
+734,Brillux,66.46,Germany,"Manufacture and processing of materials, metals and paper"
+735,BASF,66.46,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+736,arvato,66.42,Germany,Business Services and Supplies
+737,Bialetti,66.37,Italy,Packaged Goods
+738,Weidmüller,66.35,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+739,Axéréal,66.35,France,"Food, Soft Beverages, Alcohol and Tobacco"
+740,GPI,66.34,Italy,Healthcare Equipment and Services
+741,La Redoute,66.33,France,Retail
+742,Softcat,66.32,United Kingdom,"IT, Internet, Software and Services"
+743,Mitchells & Butlers,66.31,United Kingdom,Restaurants
+744,Somfy,66.3,France,Construction
+745,Personio,66.29,Germany,"IT, Internet, Software and Services"
+746,Brembo,66.27,Italy,Automotive (Producers and Suppliers)
+747,Kem One,66.26,France,"Oil and Gas Operations, Mining, and Chemicals"
+748,Alliance Healthcare,66.25,Germany,Wholesale
+749,Storengy,66.24,France,Utilities
+750,Hornbach,66.24,Germany,Retail
+751,Vector Informatik,66.22,Germany,"IT, Internet, Software and Services"
+752,Panariagroup Industrie Ceramiche,66.22,Italy,Wholesale
+753,Cefla,66.21,Italy,"Engineering, Manufacturing"
+754,ALSO,66.2,Switzerland,"IT, Internet, Software and Services"
+755,BLG Logistics,66.17,Germany,Transportation and Logistics
+756,Medicover,66.15,Germany,Healthcare (Social)
+757,Warner Bros. Discovery,66.15,Netherlands,Media and Advertising
+758,Julius Baer,66.15,Germany,Banking and Financial Services
+759,Bauder,66.14,Germany,"Manufacture and processing of materials, metals and paper"
+760,Action,66.11,Netherlands,Retail
+761,AVL,66.1,Austria,Automotive (Producers and Suppliers)
+762,UBS,66.1,Switzerland,Banking and Financial Services
+763,S&T,66.1,Austria,"IT, Internet, Software and Services"
+764,Motorola Solutions,66.08,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+765,Card Factory,66.05,United Kingdom,Retail
+766,Taylor Wimpey,66.04,United Kingdom,Construction
+767,Brunello Cucinelli,66.03,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+768,Robert Walters,66.02,United Kingdom,Consulting and Accounting
+769,Engel & Völkers,66,Germany,Business Services and Supplies
+770,Ipsos,66,France,Business Services and Supplies
+771,Dennree,65.96,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+772,Usp Zdrowie,65.95,Poland,Wholesale
+773,Rohde & Schwarz,65.94,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+774,Micropole,65.92,France,"IT, Internet, Software and Services"
+775,Maison 123,65.9,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+776,Manitou Group,65.9,France,"Engineering, Manufacturing"
+777,Borealis,65.89,Austria,"Oil and Gas Operations, Mining, and Chemicals"
+778,Desautel,65.85,France,Business Services and Supplies
+779,Geis Global Logistics,65.83,Germany,Transportation and Logistics
+780,BNY,65.78,Belgium,Banking and Financial Services
+781,Schrack Technik,65.77,Austria,"Manufacture and processing of materials, metals and paper"
+782,Boiron,65.76,France,Drugs and Biotechnology
+783,Merz,65.76,Germany,Drugs and Biotechnology
+784,Coroplast,65.74,Germany,Automotive (Producers and Suppliers)
+785,GLS (General Logistics Systems),65.73,Netherlands,Transportation and Logistics
+786,NH Hotel Group,65.72,Spain,Travel and Leisure
+787,Louis Hotel Group,65.7,Cyprus,Travel and Leisure
+788,Publicis,65.67,France,Media and Advertising
+789,Revolut,65.66,Lithuania,Automotive (Producers and Suppliers)
+790,SFS Group,65.62,Switzerland,"Engineering, Manufacturing"
+791,BW Group,65.58,Norway,"Oil and Gas Operations, Mining, and Chemicals"
+792,ArcelorMittal,65.56,Luxembourg,"Manufacture and Processing of Materials, Metals and Paper"
+793,Grohe,65.55,Germany,Packaged Goods
+794,Glennon Brothers,65.54,Ireland,"Manufacture and Processing of Materials, Metals and Paper"
+795,Laboratoires LFB,65.54,France,Drugs and Biotechnology
+796,EY,65.53,United Kingdom,Consulting and Accounting
+797,Kirby Group Engineering,65.5,Ireland,"Engineering, Manufacturing"
+798,Fujifilm,65.48,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+799,De’Longhi,65.48,Italy,Packaged Goods
+800,ABS Acciaierie Bertoli Safau,65.46,Italy,"Manufacture and processing of materials, metals and paper"
+801,ElectronicPartner,65.45,Germany,Retail
+802,Sodexo,65.42,France,Business Services and Supplies
+803,Wipro,65.42,Germany,Consulting and Accounting
+804,Knaus Tabbert,65.4,Germany,Automotive (Producers and Suppliers)
+805,Autodesk,65.39,Ireland,"IT, Internet, Software and Services"
+806,Rohlig Suus Logistics,65.39,Poland,Transportation and Logistics
+807,Lemken,65.36,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+808,Berndorf,65.35,Austria,"Manufacture and processing of materials, metals and paper"
+809,Geberit,65.33,Switzerland,Packaged Goods
+810,Hochland,65.3,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+811,Adval Tech,65.3,Switzerland,"Manufacture and processing of materials, metals and paper"
+812,Bonprix,65.3,Germany,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+813,Astellas,65.29,United Kingdom,Drugs and Biotechnology
+814,Alpiq,65.25,Switzerland,"Engineering, Manufacturing"
+815,Alcar,65.19,Austria,"Manufacture and processing of materials, metals and paper"
+816,HellermannTyton,65.16,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+817,FirstGroup,65.1,United Kingdom,Transportation and Logistics
+818,Soitec,65.1,France,"Manufacture and processing of materials, metals and paper"
+819,Primetals Technologies,65.06,United Kingdom,"Manufacture and processing of materials, metals and paper"
+820,Gerresheimer,65.04,Germany,"Manufacture and processing of materials, metals and paper"
+821,Reinhausen,65.01,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+822,Canpack Group,65.01,Poland,"Manufacture and processing of materials, metals and paper"
+823,Neuroth,64.99,Austria,Healthcare Equipment and Services
+824,Adisseo,64.97,France,Drugs and Biotechnology
+825,Portalp,64.96,France,Construction
+826,Hörmann,64.91,Germany,"Manufacture and processing of materials, metals and paper"
+827,BKW,64.9,Switzerland,Utilities
+828,tesa,64.89,Germany,"Manufacture and processing of materials, metals and paper"
+829,Hamelin,64.83,France,Packaged Goods
+830,Uniper,64.8,Germany,Utilities
+831,Paul Hartmann,64.79,Germany,Healthcare Equipment and Services
+832,Aegon,64.73,Netherlands,Insurance
+833,MTU Aero Engines,64.72,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+834,Ocado Group,64.72,United Kingdom,Retail
+835,Krohne,64.7,Germany,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+836,JCB,64.68,United Kingdom,"Engineering, Manufacturing"
+837,Tecnomat,64.68,France,Retail
+838,Richemont,64.66,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+839,Holter,64.64,Austria,Wholesale
+840,Cineplexx,64.61,Austria,Travel and Leisure
+841,bilstein group,64.6,Germany,Automotive (Producers and Suppliers)
+842,Gewiss,64.58,Italy,Healthcare Equipment and Services
+843,Constellium,64.57,France,"Manufacture and processing of materials, metals and paper"
+844,Odeon Cinemas Group,64.56,United Kingdom,Travel and Leisure
+845,Magna,64.52,Austria,Automotive (Producers and Suppliers)
+846,Musgrave Group,64.51,Ireland,Retail
+847,Falkensteiner Hotels & Residences,64.46,Austria,Travel and Leisure
+848,Rewe Group,64.42,Germany,Retail
+849,Agrial,64.42,France,"Food, Soft Beverages, Alcohol and Tobacco"
+850,Zeeman,64.38,Netherlands,Retail
+851,Cebi,64.37,Luxembourg,"Engineering, Manufacturing"
+852,WSP,64.33,United Kingdom,Consulting and Accounting
+853,Banco Sabadell,64.33,Spain,Banking and Financial Services
+854,Ball Corporation,64.31,United Kingdom,"Manufacture and processing of materials, metals and paper"
+855,Kesko,64.31,Finland,Retail
+856,Axel Springer,64.3,Germany,Media and Advertising
+857,Uzin Utz,64.28,Germany,"Manufacture and processing of materials, metals and paper"
+858,Brenntag,64.26,Germany,Wholesale
+859,Lesaffre,64.23,France,"Food, Soft Beverages, Alcohol and Tobacco"
+860,British American Tobacco,64.23,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+861,Zegna,64.23,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+862,C&A,64.21,Switzerland,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+863,Agru,64.2,Austria,"Manufacture and processing of materials, metals and paper"
+864,R. Stahl,64.18,Germany,"Manufacture and processing of materials, metals and paper"
+865,Business Integration Partners,64.18,Italy,Consulting and Accounting
+866,Picard Surgelés,64.11,France,Retail
+867,Esaote,64.09,Italy,Healthcare Equipment and Services
+868,Société Générale,64.07,France,Banking and Financial Services
+869,VDM Metals,63.98,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+870,Neuman Aluminium,63.95,Austria,"Manufacture and processing of materials, metals and paper"
+871,Vossloh,63.94,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+872,Marazzi Group,63.92,Italy,"Manufacture and processing of materials, metals and paper"
+873,Barlinek,63.8,Poland,"Manufacture and Processing of Materials, Metals and Paper"
+874,Pankl,63.77,Austria,"Aerospace, Defence, Manufacture of Transport Equipment"
+875,Ferrum,63.73,Switzerland,"Engineering, Manufacturing"
+876,Computacenter,63.72,United Kingdom,"IT, Internet, Software and Services"
+877,Galeries Lafayette,63.72,France,Retail
+878,AS Watson Group,63.66,Netherlands,Retail
+879,Merit Medical,63.64,Netherlands,Healthcare Equipment and Services
+880,SEDA International Packaging Group,63.62,Italy,Packaged Goods
+881,Brown Thomas,63.59,Ireland,Retail
+882,Cogne Acciai Speciali,63.59,Italy,"Manufacture and processing of materials, metals and paper"
+883,Emuge-Franken,63.59,France,"Manufacture and processing of materials, metals and paper"
+884,Virtusa,63.56,United Kingdom,Business Services and Supplies
+885,Levi Strauss & Co,63.5,Belgium,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+886,Kimberly-Clark,63.46,United Kingdom,Packaged Goods
+887,Christof Group,63.42,Austria,Construction
+888,Starbucks,63.4,United Kingdom,Restaurants
+889,Saipem,63.39,Italy,"Engineering, Manufacturing"
+890,Landi Renzo,63.39,Italy,Automotive (Producers and Suppliers)
+891,Stada Arzneimittel,63.36,Germany,Drugs and Biotechnology
+892,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),63.3,Germany,Healthcare (Social)
+893,Ornua,63.3,Ireland,"Food, Soft Beverages, Alcohol and Tobacco"
+894,Chevron,63.26,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+895,TPA,63.25,Austria,Consulting and Accounting
+896,SEW-Eurodrive,63.25,Germany,"Engineering, Manufacturing"
+897,Oniverse,63.25,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+898,Fexco,63.23,Ireland,Banking and Financial Services
+899,Conforama,63.22,France,Retail
+900,Ducati,63.21,Italy,Automotive (Producers and Suppliers)
+901,Solo midocean,63.21,Netherlands,Business Services and Supplies
+902,Conex Bänninger,63.18,United Kingdom,"Manufacture and Processing of Materials, Metals and Paper"
+903,Stryker,63.14,Netherlands,Healthcare Equipment and Services
+904,PPG,63.12,Switzerland,"Oil and Gas Operations, Mining, and Chemicals"
+905,Almaviva,63.09,Italy,"IT, Internet, Software and Services"
+906,Pfeiffer Vacuum+Fab Solutions,63.07,Germany,"Engineering, Manufacturing"
+907,Recaro,63.07,Germany,Automotive (Producers and Suppliers)
+908,Nexity,63.03,France,Business Services and Supplies
+909,Max Streicher,62.99,Germany,Construction
+910,Valvitalia,62.98,Italy,"Manufacture and processing of materials, metals and paper"
+911,Flowserve,62.97,Netherlands,"Engineering, Manufacturing"
+912,BioNTech,62.9,Germany,Drugs and Biotechnology
+913,Hutchinson,62.86,France,Automotive (Producers and Suppliers)
+914,Zambon,62.81,Italy,Drugs and Biotechnology
+915,Circet,62.8,France,"Telecommunications Services, Cable Supplier"
+916,Internorm,62.79,Austria,"Manufacture and processing of materials, metals and paper"
+917,Cerba HealthCare,62.78,France,Drugs and Biotechnology
+918,Sonepar,62.76,France,Wholesale
+919,DXC Technology,62.74,United Kingdom,"IT, Internet, Software and Services"
+920,Anglo American,62.71,United Kingdom,"Oil and Gas Operations, Mining, and Chemicals"
+921,Groupe Stago,62.68,France,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+922,Compass Group,62.67,United Kingdom,Business Services and Supplies
+923,Schlemmer,62.65,Germany,"Engineering, Manufacturing"
+924,Nordex,62.64,Germany,"Engineering, Manufacturing"
+925,BorgWarner,62.64,Germany,Automotive (Producers and Suppliers)
+926,Forvis Mazars,62.59,France,Consulting and Accounting
+927,Lockheed Martin,62.58,Belgium,"Aerospace, Defence, Manufacture of Transport Equipment"
+928,Expleo,62.58,France,"Engineering, Manufacturing"
+929,Frauenthal,62.56,Austria,"Aerospace, Defence, Manufacture of Transport Equipment"
+930,Mercury Engineering,62.56,Ireland,"Engineering, Manufacturing"
+931,Homag,62.54,Germany,"Engineering, Manufacturing"
+932,Werner & Mertz,62.51,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+933,Sysco,62.5,United Kingdom,"Food, Soft Beverages, Alcohol and Tobacco"
+934,Dayco Europe,62.35,Italy,Automotive (Producers and Suppliers)
+935,ARM,62.32,United Kingdom,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+936,Bloomberg,62.31,United Kingdom,Media and Advertising
+937,Alfasigma,62.3,Italy,Drugs and Biotechnology
+938,Yahoo,62.26,Ireland,"IT, Internet, Software and Services"
+939,Ceva Logistics,62.26,France,Transportation and Logistics
+940,Sagemcom,62.24,France,"Telecommunications Services, Cable Supplier"
+941,Hammerer Aluminium Industries (HAI),62.23,Austria,"Manufacture and processing of materials, metals and paper"
+942,Benetton Group,62.22,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+943,Christ Group,62.19,Germany,Retail
+944,Open,62.18,France,"IT, Internet, Software and Services"
+945,Saverglass,62.12,France,"Manufacture and processing of materials, metals and paper"
+946,AFV Beltrame Group,62.12,Italy,"Manufacture and processing of materials, metals and paper"
+947,Renolit,62.1,Germany,"Manufacture and processing of materials, metals and paper"
+948,Andersen,62.09,Poland,"IT, Internet, Software and Services"
+949,Brink’s,62.09,United Kingdom,Business Services and Supplies
+950,Richard Wolf,62.09,Germany,Healthcare Equipment and Services
+951,Sto,62.08,Germany,"Manufacture and Processing of Materials, Metals and Paper"
+952,ASML,62.06,Netherlands,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+953,Aramex,62.05,United Kingdom,Transportation and Logistics
+954,Blue Tomato,62.03,Austria,Retail
+955,BTC,62.02,Germany,Consulting and Accounting
+956,Mane,61.99,France,Packaged Goods
+957,The Coca-Cola Company,61.98,Belgium,"Food, Soft Beverages, Alcohol and Tobacco"
+958,Dekra,61.98,Germany,Business Services and Supplies
+959,Arcese,61.93,Italy,Transportation and Logistics
+960,Delta Dore,61.89,France,Utilities
+961,GRIMME,61.85,Germany,"Aerospace, Defence, Manufacture of Transport Equipment"
+962,McKinsey & Company,61.81,United Kingdom,Consulting and Accounting
+963,MSC Cruises,61.78,Switzerland,Travel and Leisure
+964,Stabilus,61.77,Germany,Automotive (Producers and Suppliers)
+965,Lindner Group,61.75,Germany,Construction
+966,Hubert Burda Media,61.71,Germany,Media and Advertising
+967,Citigroup,61.67,United Kingdom,Banking and Financial Services
+968,Adient,61.67,Ireland,Automotive (Producers and Suppliers)
+969,Whitbread,61.64,United Kingdom,Travel and Leisure
+970,Exelite,61.64,Italy,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+971,Omexom,61.64,France,Utilities
+972,Arburg,61.64,Germany,"Engineering, Manufacturing"
+973,Anton Paar,61.63,Austria,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+974,GE Vernova,61.63,Germany,"Engineering, Manufacturing"
+975,Mayer & Co Beschläge (Maco),61.62,Austria,"Manufacture and processing of materials, metals and paper"
+976,Emerson,61.61,Sweden,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+977,Trimet,61.6,Germany,"Manufacture and processing of materials, metals and paper"
+978,Bachmann electronic,61.59,Austria,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+979,Ziegler,61.58,Belgium,Transportation and Logistics
+980,Maschio Gaspardo,61.56,Italy,"Engineering, Manufacturing"
+981,Arkopharma,61.54,France,Drugs and Biotechnology
+982,Nature & Découvertes,61.53,France,Retail
+983,ServiceNow,61.5,Germany,"IT, Internet, Software and Services"
+984,Sopra Steria Group,61.47,France,"IT, Internet, Software and Services"
+985,Bizerba,61.47,Germany,Packaged Goods
+986,Erbud Group,61.47,Poland,Construction
+987,Falck,61.44,Denmark,Healthcare Equipment and Services
+988,Groupe GMD,61.39,France,Automotive (Producers and Suppliers)
+989,LISI Aerospace,61.39,France,"Aerospace, Defence, Manufacture of Transport Equipment"
+990,Tchibo/ Eduscho,61.37,Germany,"Food, Soft Beverages, Alcohol and Tobacco"
+991,Essity,61.35,Sweden,Packaged Goods
+992,International Personal Finance,61.34,United Kingdom,Banking and Financial Services
+993,Century 21,61.32,France,Business Services and Supplies
+994,Aebi Schmidt,61.31,Switzerland,Automotive (Producers and Suppliers)
+995,PCC Group,61.24,Germany,"Oil and Gas Operations, Mining, and Chemicals"
+996,Still,61.19,Germany,"Engineering, Manufacturing"
+997,Norsk Hydro,61.15,Norway,"Manufacture and Processing of Materials, Metals and Paper"
+998,Subsea 7,61.13,United Kingdom,Construction
+999,Ethypharm,61.13,France,Drugs and Biotechnology
+1000,Groupe Etam,61.13,France,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
