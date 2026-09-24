@@ -16,7 +16,11 @@ st.set_page_config(
 # -----------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("ft_europe_best_employers_2026.csv")
+    df = pd.read_csv(
+        "ft_europe_best_employers_2026.csv",
+        encoding="utf-8-sig"
+    )
+
     df.columns = df.columns.str.strip()
     return df
 
